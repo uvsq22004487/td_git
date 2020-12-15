@@ -1,2 +1,3 @@
 # td_git
-calculatrice simple
+calculatrice simple en pyhton avec Tkinter
+
